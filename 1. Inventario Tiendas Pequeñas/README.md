@@ -1,27 +1,12 @@
-# 🚀 Mi Laboratorio de Proyectos y Soluciones
+# Proyecto: Gestión de Inventario para Tiendas
 
-¡Bienvenido/a! Este es mi espacio personal donde documento el análisis, diseño y desarrollo de soluciones orientadas al mercado. Mi enfoque es transformar problemas cotidianos en oportunidades de negocio.
+## 1. El Problema
+Las tiendas locales pierden mucho dinero porque no saben exactamente qué tienen en bodega.
 
----
+## 2. La Solución
+Crear una herramienta simple que notifique al celular cuando quede poco stock.
 
-## 📂 Índice de Proyectos
-
-| Proyecto | Estado | Descripción Corta |
-| :--- | :--- | :--- |
-| 1. Inventario Tiendas Pequeñas | 💡 Idea | Solución para gestión de inventarios en tiendas locales. |
-
-**Leyenda de estados:** 💡 Idea | 🛠️ En Proceso | ✅ Finalizado
-
----
-
-## 📈 Ruta de Aprendizaje
-
-- **Git**
-	- Configuración inicial de Git (user.name, user.email).
-	- git init, git add .
-
-En esta sección documento mis avances técnicos y de negocio paso a paso.
-
-
----
-*Última actualización: 14 Mayo 2026*
+## 3. Notas  
+14 de mayo:
+	- Investigué cómo se conectan las bases de datos simples.
+	- Busqué precios de la competencia.
